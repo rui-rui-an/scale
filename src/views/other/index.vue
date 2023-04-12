@@ -1,5 +1,7 @@
 <template>
-  <div>about</div>
+  <div class="other">
+      其他页面的
+  </div>
 </template>
 
 <script>
